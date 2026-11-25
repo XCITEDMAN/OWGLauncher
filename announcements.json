@@ -2,7 +2,17 @@
   "schemaVersion": 1,
   "source": "discord",
   "channel": "server-announcements",
-  "updated": "2026-11-25T06:10:22.740Z",
-  "keepalive": "2026-11-25T06:10:22.740Z",
-  "items": []
+  "updated": "2026-11-25T07:20:29.839Z",
+  "keepalive": "2026-11-25T07:20:29.839Z",
+  "items": [
+    {
+      "id": "1575045531883929691",
+      "timestamp": "2026-11-25T07:08:37.732000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "HOLA!  Everyone, something exciting is coming!  I am developing our very own server launcher.  Just for our servers.  You will soon be able to get your hands on this guy and use it to launch our servers and update your DayZ client with greater ease.",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575045531883929691"
+    }
+  ]
 }
