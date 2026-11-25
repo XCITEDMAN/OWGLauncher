@@ -1,7 +1,8 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-25T10:15:00-06:00",
+  "updated": "2026-11-25T11:10:00-06:00",
   "defaultHost": "owg.servegame.com",
+  "announcementsUrl": "https://owg-announcements.andrew-t-black.workers.dev/",
   "groups": [
     {
       "id": "standalone",
@@ -29,7 +30,9 @@
       "image": "images/deadfall.png",
       "group": "hived",
       "joinScreen": {
-        "media": ["join/deadfall/deadfall.png"]
+        "media": [
+          "join/deadfall/deadfall.png"
+        ]
       }
     },
     {
@@ -42,7 +45,9 @@
       "image": "images/namalsk.jpg",
       "group": "hived",
       "joinScreen": {
-        "media": ["join/namalsk/namalsk.jpg"]
+        "media": [
+          "join/namalsk/namalsk.jpg"
+        ]
       }
     },
     {
@@ -55,7 +60,9 @@
       "image": "images/hashima.jpg",
       "group": "hived",
       "joinScreen": {
-        "media": ["join/hashima/hashima.jpg"]
+        "media": [
+          "join/hashima/hashima.jpg"
+        ]
       }
     },
     {
@@ -69,7 +76,9 @@
       "image": "images/thethirst.jpg",
       "imageOpacity": 0.25,
       "joinScreen": {
-        "media": ["join/thethirst/thethirst.jpg"]
+        "media": [
+          "join/thethirst/thethirst.jpg"
+        ]
       }
     }
   ],
