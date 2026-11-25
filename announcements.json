@@ -2,9 +2,18 @@
   "schemaVersion": 1,
   "source": "discord",
   "channel": "server-announcements",
-  "updated": "2026-11-25T07:20:29.839Z",
-  "keepalive": "2026-11-25T07:20:29.839Z",
+  "updated": "2026-11-25T16:46:26.612Z",
+  "keepalive": "2026-11-25T16:46:26.612Z",
   "items": [
+    {
+      "id": "1575173043087741030",
+      "timestamp": "2026-11-25T15:35:18.772000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "Quick Update for the launcher.  Adding a splash screen for joining servers.  This plays while you wait to join.  Splash screen auto exits after 2 minutes.  You can close the splash screen if you wish.  Doing this in lew of messing with DayZ's dumb loading screen crap.",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575173043087741030"
+    },
     {
       "id": "1575045531883929691",
       "timestamp": "2026-11-25T07:08:37.732000+00:00",
