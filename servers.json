@@ -77,7 +77,8 @@
       "imageOpacity": 0.25,
       "joinScreen": {
         "media": [
-          "join/thethirst/thethirst.jpg"
+          "join/thethirst/thethirst.jpg",
+          "join/thethirst/owl-trans.png"
         ]
       }
     }
