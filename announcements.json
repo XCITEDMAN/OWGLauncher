@@ -2,9 +2,18 @@
   "schemaVersion": 1,
   "source": "discord",
   "channel": "server-announcements",
-  "updated": "2026-11-25T05:28:22.540Z",
-  "keepalive": "2026-11-25T05:28:22.540Z",
+  "updated": "2026-11-25T05:41:22.531Z",
+  "keepalive": "2026-11-25T05:41:22.531Z",
   "items": [
+    {
+      "id": "1575022404281962608",
+      "timestamp": "2026-11-25T05:36:43.682000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "https://klipy.com/gifs/waving-lizard",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575022404281962608"
+    },
     {
       "id": "1575018637461295136",
       "timestamp": "2026-11-25T05:21:45.602000+00:00",
