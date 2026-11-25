@@ -2,9 +2,18 @@
   "schemaVersion": 1,
   "source": "discord",
   "channel": "server-announcements",
-  "updated": "2026-11-25T05:10:47.111Z",
-  "keepalive": "2026-11-25T05:10:47.111Z",
+  "updated": "2026-11-25T05:28:22.540Z",
+  "keepalive": "2026-11-25T05:28:22.540Z",
   "items": [
+    {
+      "id": "1575018637461295136",
+      "timestamp": "2026-11-25T05:21:45.602000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "Second Post",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575018637461295136"
+    },
     {
       "id": "1575010990909562933",
       "timestamp": "2026-11-25T04:51:22.522000+00:00",
