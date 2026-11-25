@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-24T21:35:00-06:00",
+  "updated": "2026-11-25T00:45:00-06:00",
   "defaultHost": "owg.servegame.com",
   "announcements": [],
   "servers": [
@@ -10,7 +10,8 @@
       "gamePort": 2502,
       "queryPort": 2503,
       "enabled": true,
-      "order": 1
+      "order": 1,
+      "image": "images/deadfall.png"
     },
     {
       "id": "owg-namalsk",
@@ -18,7 +19,8 @@
       "gamePort": 2602,
       "queryPort": 2603,
       "enabled": true,
-      "order": 2
+      "order": 2,
+      "image": "images/namalsk.jpg"
     },
     {
       "id": "owg-hashima",
@@ -26,7 +28,8 @@
       "gamePort": 2702,
       "queryPort": 2703,
       "enabled": true,
-      "order": 3
+      "order": 3,
+      "image": "images/hashima.jpg"
     }
   ],
   "launcher": {
