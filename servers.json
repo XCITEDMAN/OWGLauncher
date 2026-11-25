@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "updated": "2026-11-24T20:25:00-06:00",
+
+  "defaultHost": "158.120.162.200",
+
+  "announcements": [
+    {
+      "id": "welcome",
+      "date": "2026-11-24",
+      "title": "Welcome to the OWG Launcher",
+      "body": "Pick a server, hit Play, and the launcher handles the mods.",
+      "pinned": true,
+      "expires": null
+    }
+  ],
+
+  "servers": [
+    {
+      "id": "owg-deadfall",
+      "name": "OWG-DEADFALL",
+      "gamePort": 2502,
+      "queryPort": 2503,
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "owg-namalsk",
+      "name": "OWG-NAMALSK",
+      "gamePort": 2602,
+      "queryPort": 2603,
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "owg-hashima",
+      "name": "OWG-HASHIMA",
+      "gamePort": 2702,
+      "queryPort": 2703,
+      "enabled": true,
+      "order": 3
+    }
+  ],
+
+  "launcher": {
+    "latestVersion": "1.0.0",
+    "downloadUrl": ""
+  }
+}
