@@ -1,7 +1,17 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-25T00:45:00-06:00",
+  "updated": "2026-11-25T01:10:00-06:00",
   "defaultHost": "owg.servegame.com",
+  "groups": [
+    {
+      "id": "hived",
+      "title": "Hived Servers"
+    },
+    {
+      "id": "standalone",
+      "title": "Standalone Servers"
+    }
+  ],
   "announcements": [],
   "servers": [
     {
@@ -11,7 +21,8 @@
       "queryPort": 2503,
       "enabled": true,
       "order": 1,
-      "image": "images/deadfall.png"
+      "image": "images/deadfall.png",
+      "group": "hived"
     },
     {
       "id": "owg-namalsk",
@@ -20,7 +31,8 @@
       "queryPort": 2603,
       "enabled": true,
       "order": 2,
-      "image": "images/namalsk.jpg"
+      "image": "images/namalsk.jpg",
+      "group": "hived"
     },
     {
       "id": "owg-hashima",
@@ -29,7 +41,19 @@
       "queryPort": 2703,
       "enabled": true,
       "order": 3,
-      "image": "images/hashima.jpg"
+      "image": "images/hashima.jpg",
+      "group": "hived"
+    },
+    {
+      "id": "the-thirst",
+      "name": "The Thirst",
+      "group": "standalone",
+      "gamePort": 2302,
+      "queryPort": 2303,
+      "enabled": true,
+      "order": 1,
+      "image": "images/thethirst.jpg",
+      "imageOpacity": 0.25
     }
   ],
   "launcher": {
