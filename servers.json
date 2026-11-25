@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-25T09:45:00-06:00",
+  "updated": "2026-11-25T10:15:00-06:00",
   "defaultHost": "owg.servegame.com",
   "groups": [
     {
@@ -14,7 +14,6 @@
   ],
   "joinScreen": {
     "message": "You are joining \"{server}\". Prepare to survive or die trying.",
-    "media": [],
     "slideSeconds": 6,
     "maxSeconds": 120
   },
@@ -28,7 +27,10 @@
       "enabled": true,
       "order": 1,
       "image": "images/deadfall.png",
-      "group": "hived"
+      "group": "hived",
+      "joinScreen": {
+        "media": ["join/deadfall/deadfall.png"]
+      }
     },
     {
       "id": "owg-namalsk",
@@ -38,7 +40,10 @@
       "enabled": true,
       "order": 2,
       "image": "images/namalsk.jpg",
-      "group": "hived"
+      "group": "hived",
+      "joinScreen": {
+        "media": ["join/namalsk/namalsk.jpg"]
+      }
     },
     {
       "id": "owg-hashima",
@@ -48,7 +53,10 @@
       "enabled": true,
       "order": 3,
       "image": "images/hashima.jpg",
-      "group": "hived"
+      "group": "hived",
+      "joinScreen": {
+        "media": ["join/hashima/hashima.jpg"]
+      }
     },
     {
       "id": "the-thirst",
@@ -59,7 +67,10 @@
       "enabled": true,
       "order": 1,
       "image": "images/thethirst.jpg",
-      "imageOpacity": 0.25
+      "imageOpacity": 0.25,
+      "joinScreen": {
+        "media": ["join/thethirst/thethirst.jpg"]
+      }
     }
   ],
   "launcher": {
