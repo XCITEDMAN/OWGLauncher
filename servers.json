@@ -4,14 +4,14 @@
   "defaultHost": "owg.servegame.com",
   "groups": [
     {
-      "id": "hived",
-      "title": "Hived Servers"
-    },
-    {
       "id": "standalone",
       "title": "Standalone Servers"
+    },
+    {
+      "id": "hived",
+      "title": "Hived Servers"
     }
-  ],
+   ],
   "announcements": [],
   "servers": [
     {
