@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updated": "2026-11-25T01:10:00-06:00",
+  "updated": "2026-11-25T09:45:00-06:00",
   "defaultHost": "owg.servegame.com",
   "groups": [
     {
@@ -11,7 +11,13 @@
       "id": "hived",
       "title": "Hived Servers"
     }
-   ],
+  ],
+  "joinScreen": {
+    "message": "You are joining \"{server}\". Prepare to survive or die trying.",
+    "media": [],
+    "slideSeconds": 6,
+    "maxSeconds": 120
+  },
   "announcements": [],
   "servers": [
     {
