@@ -2,16 +2,7 @@
   "schemaVersion": 1,
   "updated": "2026-11-24T21:35:00-06:00",
   "defaultHost": "owg.servegame.com",
-  "announcements": [
-    {
-      "id": "welcome",
-      "date": "2026-11-24",
-      "title": "Welcome to the OWG Launcher",
-      "body": "Pick a server, hit Play, and the launcher handles the mods.",
-      "pinned": true,
-      "expires": null
-    }
-  ],
+  "announcements": [],
   "servers": [
     {
       "id": "owg-deadfall",
