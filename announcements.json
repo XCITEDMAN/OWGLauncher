@@ -2,9 +2,18 @@
   "schemaVersion": 1,
   "source": "discord",
   "channel": "server-announcements",
-  "updated": "2026-11-25T05:41:22.531Z",
-  "keepalive": "2026-11-25T05:41:22.531Z",
+  "updated": "2026-11-25T06:10:22.740Z",
+  "keepalive": "2026-11-25T06:10:22.740Z",
   "items": [
+    {
+      "id": "1575027413304483941",
+      "timestamp": "2026-11-25T05:56:37.926000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "Testing 1...2...3...🔥 :elmo_pog: :3_FortniteNod: :emoji_52:",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575027413304483941"
+    },
     {
       "id": "1575022404281962608",
       "timestamp": "2026-11-25T05:36:43.682000+00:00",
