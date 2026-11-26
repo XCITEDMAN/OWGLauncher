@@ -6,7 +6,7 @@
   "restarts": { "timeZone": "America/Chicago", "times": ["00:00", "04:00", "08:00", "12:00", "16:00", "20:00"] },
   "discordInvite": "https://discord.gg/WpNuTub783",
   "music": { "playlist": "https://music.youtube.com/playlist?list=PLsulcpCzBZ1ov8lKdo06XFyzsFELPIKVE", "title": "DayZ Ambience Music" },
-  "theme": "christmas",
+  "theme": "newyear",
   "groups": [
     {
       "id": "standalone",
