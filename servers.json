@@ -3,6 +3,7 @@
   "updated": "2026-11-25T11:10:00-06:00",
   "defaultHost": "owg.servegame.com",
   "announcementsUrl": "https://owg-announcements.andrew-t-black.workers.dev/",
+  "restarts": { "timeZone": "America/Chicago", "times": ["00:00", "04:00", "08:00", "12:00", "16:00", "20:00"] },
   "groups": [
     {
       "id": "standalone",
