@@ -60,9 +60,10 @@
       "order": 3,
       "image": "images/hashima.jpg",
       "group": "hived",
+      "trailer": "join/hashima/hashima.mp4",
       "joinScreen": {
         "media": [
-          "join/hashima/hashima.jpg"
+          "join/hashima/hashima.mp4"
         ]
       }
     },
