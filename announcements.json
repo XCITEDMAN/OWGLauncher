@@ -2,9 +2,54 @@
   "schemaVersion": 1,
   "source": "discord",
   "channel": "server-announcements",
-  "updated": "2026-11-25T23:34:09.668Z",
-  "keepalive": "2026-11-25T23:34:09.668Z",
+  "updated": "2026-11-26T05:25:16.173Z",
+  "keepalive": "2026-11-26T05:25:16.173Z",
   "items": [
+    {
+      "id": "1575380858473418876",
+      "timestamp": "2026-11-26T05:21:05.821000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "**--==OWG LAUNCHER UPDATE v1.11.1==--**\n- Replaced sounds",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575380858473418876"
+    },
+    {
+      "id": "1575374878478176257",
+      "timestamp": "2026-11-26T04:57:20.079000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "**--==OWG LAUNCHER UPDATE v1.11.0==--**\n\n- Gear icon at the bottom-right, just left of the ?. Hovering shows \"Settings — sounds, mods & joining.\"\n\n- The bottom bar now holds just Player name, the gear, the ? and the version.\n\n- The Settings page is sorted into three sections:\n**Joining: **Auto-join when mods finish, and Minimize when DayZ starts.\n**Mods:** Pre-download mods for every server, and Clean up mods (an Open button that launches the cleanup window).\n**Sounds:** Alert sounds.\n\n- Each setting has an ⓘ. Hovering over it shows a short explanation, like the pre-download one in the screenshot.\n\n- Clean up mods has moved off the server list into Settings. The server list header now only has ↻ Refresh.\n\n- Closing: the ✕, Esc, or clicking outside the page.\n\n- Settings are unchanged: existing players keep their current choices.",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575374878478176257"
+    },
+    {
+      "id": "1575367945968947202",
+      "timestamp": "2026-11-26T04:29:47.240000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "**--==OWG LAUNCHER UPDATE #5==--**\n- \"Your survivor is on…\" wording on the Rejoin card.\n- Clean up mods, next to Refresh, with both the \"Keep only OWG mods\" and \"Choose mods to remove\" options.\n- Pulled-mod warnings: a red banner and card warning, plus UNAVAILABLE greyed-out buttons on affected servers.",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575367945968947202"
+    },
+    {
+      "id": "1575359221334020127",
+      "timestamp": "2026-11-26T03:55:07.125000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "**--==OWG LAUNCHER UPDATE #4==--**\n- Fixed Who's online\n- Launcher audibly notifies you when a new update is downloaded",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575359221334020127"
+    },
+    {
+      "id": "1575328650918891561",
+      "timestamp": "2026-11-26T01:53:38.570000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "**--==OWG LAUNCHER UPDATE #3==--**\n- Fixed media sound\n- added map trailer preview buttons",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575328650918891561"
+    },
     {
       "id": "1575219100219744317",
       "timestamp": "2026-11-25T18:38:19.648000+00:00",
