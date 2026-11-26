@@ -77,10 +77,10 @@
       "order": 1,
       "image": "images/thethirst.jpg",
       "imageOpacity": 0.25,
+      "trailer": "join/thethirst/badlands.mp4",
       "joinScreen": {
         "media": [
-          "join/thethirst/thethirst.jpg",
-          "join/thethirst/owl-trans.png"
+          "join/thethirst/badlands.mp4"
         ]
       }
     }
