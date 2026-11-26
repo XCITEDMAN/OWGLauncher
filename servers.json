@@ -46,7 +46,8 @@
       "group": "hived",
       "joinScreen": {
         "media": [
-          "join/namalsk/namalsk.jpg"
+          "join/namalsk/namalsk.jpg",
+          "join/namalsk/namalsk.mp4"
         ]
       }
     },
