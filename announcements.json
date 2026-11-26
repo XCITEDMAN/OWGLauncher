@@ -2,9 +2,18 @@
   "schemaVersion": 1,
   "source": "discord",
   "channel": "server-announcements",
-  "updated": "2026-11-26T15:34:27.845Z",
-  "keepalive": "2026-11-26T15:34:27.845Z",
+  "updated": "2026-11-26T23:58:55.118Z",
+  "keepalive": "2026-11-26T23:58:55.118Z",
   "items": [
+    {
+      "id": "1575638552451219458",
+      "timestamp": "2026-11-26T22:25:04.853000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "**--==OWG LAUNCHER UPDATE v1.15.3==--**\n\n### Fixed\n- The launcher no longer says DayZ crashed after a normal exit..",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575638552451219458"
+    },
     {
       "id": "1575422864578838559",
       "timestamp": "2026-11-26T08:08:00.857000+00:00",
@@ -85,15 +94,6 @@
       "text": "**--==OWG LAUNCHER UPDATE #2==--**\n- Minor bug fix on launch items.\n- Secret added",
       "attachments": [],
       "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575219100219744317"
-    },
-    {
-      "id": "1575200980897890465",
-      "timestamp": "2026-11-25T17:26:19.665000+00:00",
-      "edited": null,
-      "author": "XCITE",
-      "text": "**--==OWG LAUNCHER UPDATE==--**\n- Ficed Media updating\n- Fixed Announcements taking long to update\n- Added manual Announcements as backup.",
-      "attachments": [],
-      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575200980897890465"
     }
   ]
 }
