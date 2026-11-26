@@ -5,7 +5,7 @@
   "announcementsUrl": "https://owg-announcements.andrew-t-black.workers.dev/",
   "restarts": { "timeZone": "America/Chicago", "times": ["00:00", "04:00", "08:00", "12:00", "16:00", "20:00"] },
   "discordInvite": "https://discord.gg/WpNuTub783",
-  "theme": "Christmas",
+  "theme": "christmas",
   "groups": [
     {
       "id": "standalone",
