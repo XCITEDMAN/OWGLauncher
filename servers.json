@@ -44,6 +44,7 @@
       "order": 2,
       "image": "images/namalsk.jpg",
       "group": "hived",
+      "trailer": "join/namalsk/namalsk.mp4",
       "joinScreen": {
         "media": [
           "join/namalsk/namalsk.mp4"
