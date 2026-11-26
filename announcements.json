@@ -2,9 +2,36 @@
   "schemaVersion": 1,
   "source": "discord",
   "channel": "server-announcements",
-  "updated": "2026-11-26T05:25:16.173Z",
-  "keepalive": "2026-11-26T05:25:16.173Z",
+  "updated": "2026-11-26T15:34:27.845Z",
+  "keepalive": "2026-11-26T15:34:27.845Z",
   "items": [
+    {
+      "id": "1575422864578838559",
+      "timestamp": "2026-11-26T08:08:00.857000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "**--==OWG LAUNCHER UPDATE v1.15.0==--**\n\n### New\n- **Online now, by server** — pick a server from the drop-down to see who's on it and how long they've been playing. Shows 12 at a time; click \"Show all\" for the rest.\n- **Your hived survivor** — when you're playing a standalone server, the hived server your character was last on gets a 🦉 YOUR HIVED SURVIVOR tag, and the Hived Servers heading tells you which one it is.",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575422864578838559"
+    },
+    {
+      "id": "1575418261913215111",
+      "timestamp": "2026-11-26T07:49:43.496000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "**--==OWG LAUNCHER UPDATE v1.14.3==--**\n\n### New\n- **Music while you wait** — the ♫ button plays the OWG music playlist in a small YouTube player. Click it again (or the ✕) to turn it off. Music keeps playing while mods download and stops when DayZ starts.\n- **Join our Discord** — new speech-bubble button next to the ♫, settings and help icons.\n- **Holiday themes** — the launcher dresses up for Halloween (bats), Christmas (snow), New Year's (fireworks and confetti) and the 4th of July (fireworks and stars). Turn them off in Settings → Look → Holiday decorations.\n- **Maintenance mode** — when admins are working on a server, its button shows MAINTENANCE with a note about when it'll be back.\n\n### Improved\n- Clicking **Refresh** now picks up server list changes right away.\n- Holiday animations now play even when Windows animation effects are turned off.\n- Help file updated with the new features.",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575418261913215111"
+    },
+    {
+      "id": "1575397943425499228",
+      "timestamp": "2026-11-26T06:28:59.191000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "**--==OWG LAUNCHER UPDATE v1.12.2==--**\n\n### Why can't I join?\n- After DayZ closes, the launcher explains why you were kicked, disconnected or crashed, in plain English, with what to do next.\n- Warns when your DayZ version doesn't match a server's, and tells you whether to update DayZ or wait for the admins.\n- Waits for Steam to finish updating DayZ before joining, and shows the download progress.\n- Warns when there isn't enough disk space for a server's mods.\n\n### Server restarts\n- Each server shows a countdown to its next restart (\"Restart in 1h 12m\").\n- Joining within 10 minutes of a restart asks you first.\n- Joining is blocked in the last minute before a restart.\n\n### Other\n- Help file updated with the new features.",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575397943425499228"
+    },
     {
       "id": "1575380858473418876",
       "timestamp": "2026-11-26T05:21:05.821000+00:00",
@@ -67,24 +94,6 @@
       "text": "**--==OWG LAUNCHER UPDATE==--**\n- Ficed Media updating\n- Fixed Announcements taking long to update\n- Added manual Announcements as backup.",
       "attachments": [],
       "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575200980897890465"
-    },
-    {
-      "id": "1575173043087741030",
-      "timestamp": "2026-11-25T15:35:18.772000+00:00",
-      "edited": null,
-      "author": "XCITE",
-      "text": "Quick Update for the launcher.  Adding a splash screen for joining servers.  This plays while you wait to join.  Splash screen auto exits after 2 minutes.  You can close the splash screen if you wish.  Doing this in lew of messing with DayZ's dumb loading screen crap.",
-      "attachments": [],
-      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575173043087741030"
-    },
-    {
-      "id": "1575045531883929691",
-      "timestamp": "2026-11-25T07:08:37.732000+00:00",
-      "edited": null,
-      "author": "XCITE",
-      "text": "HOLA!  Everyone, something exciting is coming!  I am developing our very own server launcher.  Just for our servers.  You will soon be able to get your hands on this guy and use it to launch our servers and update your DayZ client with greater ease.",
-      "attachments": [],
-      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575045531883929691"
     }
   ]
 }
