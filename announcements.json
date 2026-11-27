@@ -2,9 +2,45 @@
   "schemaVersion": 1,
   "source": "discord",
   "channel": "server-announcements",
-  "updated": "2026-11-26T23:58:55.118Z",
-  "keepalive": "2026-11-26T23:58:55.118Z",
+  "updated": "2026-11-27T07:45:46.670Z",
+  "keepalive": "2026-11-27T07:45:46.670Z",
   "items": [
+    {
+      "id": "1575705797651075177",
+      "timestamp": "2026-11-27T02:52:17.358000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "## OWG Launcher 1.16.2\n\n### Fixed\n- Mods no longer show \"Steam updating\" when only their Workshop page was edited.",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575705797651075177"
+    },
+    {
+      "id": "1575698938672058440",
+      "timestamp": "2026-11-27T02:25:02.050000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "## OWG Launcher 1.16.1\n\n### Improved\n- If Steam won't subscribe to a mod, the launcher now says so instead of showing \"Queued\" forever.\n- Clear message when a server lists a mod without a Steam Workshop ID.",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575698938672058440"
+    },
+    {
+      "id": "1575691584828215310",
+      "timestamp": "2026-11-27T01:55:48.757000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "## OWG Launcher 1.16.0\n\n### New\n\n- **Stuck mod checklist** — if a mod download gets stuck when you click PLAY, the launcher walks you through the fixes in order: re-download the mod, restart Steam, reset Steam's DayZ mod list, and verify DayZ files. Each step you've tried gets a green ✓, and the launcher joins the server as soon as the download starts.",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575691584828215310"
+    },
+    {
+      "id": "1575683095192141996",
+      "timestamp": "2026-11-27T01:22:04.670000+00:00",
+      "edited": null,
+      "author": "XCITE",
+      "text": "## OWG Launcher 1.15.4\n\n### Improved\n- The join splash closes when Steam has mods to download, so you can see the progress.\n- If a mod download gets stuck, new buttons help fix it: Re-download, open Steam's Downloads page, or open the mod's Workshop page.",
+      "attachments": [],
+      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575683095192141996"
+    },
     {
       "id": "1575638552451219458",
       "timestamp": "2026-11-26T22:25:04.853000+00:00",
@@ -58,42 +94,6 @@
       "text": "**--==OWG LAUNCHER UPDATE v1.11.0==--**\n\n- Gear icon at the bottom-right, just left of the ?. Hovering shows \"Settings — sounds, mods & joining.\"\n\n- The bottom bar now holds just Player name, the gear, the ? and the version.\n\n- The Settings page is sorted into three sections:\n**Joining: **Auto-join when mods finish, and Minimize when DayZ starts.\n**Mods:** Pre-download mods for every server, and Clean up mods (an Open button that launches the cleanup window).\n**Sounds:** Alert sounds.\n\n- Each setting has an ⓘ. Hovering over it shows a short explanation, like the pre-download one in the screenshot.\n\n- Clean up mods has moved off the server list into Settings. The server list header now only has ↻ Refresh.\n\n- Closing: the ✕, Esc, or clicking outside the page.\n\n- Settings are unchanged: existing players keep their current choices.",
       "attachments": [],
       "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575374878478176257"
-    },
-    {
-      "id": "1575367945968947202",
-      "timestamp": "2026-11-26T04:29:47.240000+00:00",
-      "edited": null,
-      "author": "XCITE",
-      "text": "**--==OWG LAUNCHER UPDATE #5==--**\n- \"Your survivor is on…\" wording on the Rejoin card.\n- Clean up mods, next to Refresh, with both the \"Keep only OWG mods\" and \"Choose mods to remove\" options.\n- Pulled-mod warnings: a red banner and card warning, plus UNAVAILABLE greyed-out buttons on affected servers.",
-      "attachments": [],
-      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575367945968947202"
-    },
-    {
-      "id": "1575359221334020127",
-      "timestamp": "2026-11-26T03:55:07.125000+00:00",
-      "edited": null,
-      "author": "XCITE",
-      "text": "**--==OWG LAUNCHER UPDATE #4==--**\n- Fixed Who's online\n- Launcher audibly notifies you when a new update is downloaded",
-      "attachments": [],
-      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575359221334020127"
-    },
-    {
-      "id": "1575328650918891561",
-      "timestamp": "2026-11-26T01:53:38.570000+00:00",
-      "edited": null,
-      "author": "XCITE",
-      "text": "**--==OWG LAUNCHER UPDATE #3==--**\n- Fixed media sound\n- added map trailer preview buttons",
-      "attachments": [],
-      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575328650918891561"
-    },
-    {
-      "id": "1575219100219744317",
-      "timestamp": "2026-11-25T18:38:19.648000+00:00",
-      "edited": null,
-      "author": "XCITE",
-      "text": "**--==OWG LAUNCHER UPDATE #2==--**\n- Minor bug fix on launch items.\n- Secret added",
-      "attachments": [],
-      "url": "https://discord.com/channels/465912906832412672/1574990825346048000/1575219100219744317"
     }
   ]
 }
